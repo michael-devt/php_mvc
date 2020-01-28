@@ -1,6 +1,6 @@
 PHP MVC
 
-#Helpfull links
+#Tutorial link
 
 Dev.to
 https://dev.to/kabircse/oop-practice-with-a-standard-project-in-php-49h9
