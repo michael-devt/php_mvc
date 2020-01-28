@@ -9,8 +9,8 @@ Laracast
 https://laracasts.com/series/php-for-beginners/episodes/18
 
 
-Others(Virtual host for centos)
-vim /etc/httpd/conf.d/domain.conf
+Others 
+/etc/httpd/conf.d/domain.conf
 ```
 <VirtualHost *:80>
 DocumentRoot /var/www/html/domain
